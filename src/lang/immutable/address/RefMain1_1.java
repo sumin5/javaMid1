@@ -15,6 +15,5 @@ public class RefMain1_1 {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-
     }
 }

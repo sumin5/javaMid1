@@ -9,6 +9,5 @@ public class ImmutableMain2 {
         // 계싼 이후에도 기존값과 신규값 모두 확인 가능
         System.out.println("obj1 = " + obj1.getValue());
 
-
     }
 }
