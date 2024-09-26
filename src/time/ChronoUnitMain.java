@@ -26,7 +26,5 @@ public class ChronoUnitMain {
         long minutesBetween = ChronoUnit.MINUTES.between(lt1, lt2);
         System.out.println("minutesBetween = " + minutesBetween);
 
-
-
     }
 }

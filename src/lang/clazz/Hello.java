@@ -6,8 +6,8 @@ public class Hello {
         return "hello!";
     }
 
-    private String notAcess(){
+    private String notAccess(){
         System.out.println("어떻게 접근했니 ?");
-        return "어떻게 접근했니 ?";
+        return "";
     }
 }
